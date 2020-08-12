@@ -15,7 +15,7 @@
     12. List the assumptions you (or others) have made so far, and verify them if possible
 ## 2 Get the data
     1. Define the data that you need  to solve the problem
-    2. Find and page where you can get the data or design a method to produce the database (running an experiment or setting sensors to gather the data)
+    2. Find where you can get the data or design a method to produce the database (running an experiment or setting sensors to gather the data)
     3. Check how much space the database will take. Check the size so it fits in space in the drive and also it can be manageable in RAM. 
     4. Check legal obligations, and get authorization if necessary
     5. Create a workspace (with enough storage space) and also the needed environment 
